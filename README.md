@@ -1,8 +1,8 @@
 ### Hi, I'm Hilary
 
-I build new products, user experiences, and business models that transform companies' revenue trajectories and modernize how they deliver value to their customers. I'm now applying my product sense to building full stack, AI-native applications, and reshaping how I approach the product builder craft.
+I build new products, user experiences, and business models that transform companies' revenue trajectories by simplifying complex experiences, getting users to real value, and evolving how they use the product over time. At the same time, I identify quick wins that reduce funnel friction through rapid experimentation and analytics.
 
-Across 15+ years, I've led products and organizations from pre-Series A to Fortune 50 through fundamental business transformations and strategic shifts. In each role, I modernized not only the product and business model, but also the internal culture, mindset, and operating model needed to execute successfully and leave lasting impact. I drive long-term, sustainable growth by simplifying complex experiences, helping users get real value from the product, and evolving their usage and relationship with the product over time. At the same time, I identify quick-wins that reduce friction in the funnel through rapid experimentation and analytics.
+I'm now applying my product sense to building full stack, AI-native applications, and reshaping how I approach the product builder craft.
 
 ---
 
